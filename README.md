@@ -1,1 +1,3 @@
 # testShop
+
+PHP + MySQL
